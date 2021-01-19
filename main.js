@@ -1,5 +1,5 @@
 
-function meuEscopo() {
+function myScope() {
     const form = document.querySelector('.form');
     const resultado = document.querySelector('.resultado');
 
@@ -31,3 +31,4 @@ function meuEscopo() {
 }
 
 meuEscopo();
+let p = 'Leo'
